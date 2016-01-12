@@ -9,7 +9,7 @@
 #   <optional notes required for the script>
 #
 # Author:
-#   hubot@gamfi.pl
+#   lukasz@sredni.pl
 
 module.exports = (robot) ->
 

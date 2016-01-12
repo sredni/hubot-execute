@@ -1,19 +1,19 @@
 {
   "name": "hubot-execute",
   "description": "A hubot script to execute commands ",
-  "version": "0.0.0",
-  "author": "hubot@gamfi.pl",
+  "version": "0.0.1",
+  "author": "lukasz@sredni.pl",
   "license": "MIT",
 
   "keywords": "hubot, hubot-scripts, phing",
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-execute.git"
+    "url": "git://github.com/sredni/hubot-execute.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-execute/issues"
+    "url": "https://github.com/sredni/hubot-execute/issues"
   },
 
   "dependencies": {
